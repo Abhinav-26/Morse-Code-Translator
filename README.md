@@ -1,4 +1,7 @@
 # Morse-Code-Translator
+
+![](ScreenShots/Start.png)
+
 A simple tool which can easily convert your plain text having alphabates from A to Z, numbers from 0 to 9 and some special symbols into a encrypted morse code format. Also it can convert your morse code into plain text.
 
 <b>MORSE CODE</b>
@@ -16,3 +19,4 @@ The algorithm for morse code translator is very simple. In this we have convert 
 3. decryption.py  :- This module consists of a function which is used to convert morse code into plain text.
 
 <b>NOTE :-</b>No external libraries are used.
+{}
