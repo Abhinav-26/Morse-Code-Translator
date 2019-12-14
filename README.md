@@ -17,6 +17,9 @@ The algorithm for morse code translator is very simple. In this we have convert 
 1. dictionary.py  :- This module consists of a morse code dictionary having keys and values for the conversion.
 2. encryption.py  :- This module consists of a function which is used to convert normal text into morse code.
 3. decryption.py  :- This module consists of a function which is used to convert morse code into plain text.
+4. gui.py         :- This is the module where you can run the code with its simple GUI interface.
+5. gui_support.py :- This is module with try and except for importing the right library and for displaying GUI.
+6. run.py         :- This module deals with running of code with GUI. It is terminal based for the sake of simplicity.
 
 <b>NOTE :-</b>No external libraries are used.
 {}
