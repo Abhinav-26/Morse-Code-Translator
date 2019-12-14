@@ -1,6 +1,6 @@
 # Morse-Code-Translator
 
-![](ScreenShots/Start.png)
+![](ScreenShots/start.png)
 
 A simple tool which can easily convert your plain text having alphabates from A to Z, numbers from 0 to 9 and some special symbols into a encrypted morse code format. Also it can convert your morse code into plain text.
 
