@@ -21,5 +21,4 @@ The algorithm for morse code translator is very simple. In this we have convert 
 5. gui_support.py :- This is module with try and except for importing the right library and for displaying GUI.
 6. run.py         :- This module deals with running of code with GUI. It is terminal based for the sake of simplicity.
 
-<b>NOTE :-</b>No external libraries are used.
-{}
+
