@@ -1,4 +1,4 @@
-#A simple project on Morse code translation from plain text to morse code and vice versa
+#A simple project on Morse code translation from plain Text to morse code and vice versa
 
 #Importing the user defined modules
 import encryption as cipher
@@ -13,11 +13,11 @@ ch= input("Press 'E' to encrypt and 'D' to decrypt: ")
 print("\n")
 
 if (ch=='E' or ch== 'e'):
-    plain_text= input("Enter text to encrypt: ").upper()
+    plain_Text= input("Enter Text to encrypt: ").upper()
     print("\n")
     
     #Calling encryption function
-    cipher.encryptor(plain_text)
+    cipher.encryptor(plain_Text)
 
 elif (ch=='D' or ch== 'd'):
     morse_code= input("Enter morse code to decrypt: ")

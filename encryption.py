@@ -12,4 +12,5 @@ def encryptor(text):
             #Providing double space if it encounters a space within letters or words
             encrypted_text += " "
     print("The morse code is : ",encrypted_text)
+    return(encrypted_text)
     

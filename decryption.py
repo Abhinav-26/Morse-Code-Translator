@@ -29,4 +29,6 @@ def decryptor(text):
                 #Again making morse_code empty so that it can store next morse in it
                 morse_code= ""    
     print("The plain text is: ",plain_text)
+    return(plain_text)
+    
     
